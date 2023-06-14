@@ -1,3 +1,9 @@
-Jose Gonzalez
+<html>
+<head>
+<title>Jose Gonzalez</title>
+</head>
+<body>
 
-Hola Mundo!
+<h1>Hola Mundo!</h1>
+</body>
+</html>
